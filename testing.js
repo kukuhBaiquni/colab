@@ -4,4 +4,4 @@ function print(word) {
   }
 }
 
-print(["tjau"], ["bacit"], ["tjimenQ"]);
+print(["tjau", "bacit", "tjimenq"]);
